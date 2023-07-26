@@ -11,5 +11,7 @@ Exemplo Json para enviar para a API:
   "email": "fulano@example.com",<br>
   "assunto": "Lorem ipsum dolor sit amet",<br>
 }
-
 <h2>Configuração</h2>
+Crie no Mysql um database chamado contatos.
+Em resources, modifique o arquivo application.properties de acordo com suas necessidades.
+<br>
